@@ -16,7 +16,7 @@ Welcome to the **Paleo-Present Climate Data Analysis** project! This analysis is
 
 5. **Conclusion – Accelerated Warming**: Summarize findings and emphasize the urgency of addressing accelerated warming's implications for our planet.</div>  
 
-## PREREQUISITES
+## Prerequisites
 
 <div align="justify">
 
