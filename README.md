@@ -14,7 +14,7 @@ Welcome to the **Paleo-Present Climate Data Analysis** project! This analysis is
 
 4. **Predictions for Global Temperature**: Utilize data synthesis and climate modeling to project future temperature trends under different emissions scenarios.
 
-5. **Conclusion – Accelerated Warming**: Summarize findings and emphasize the urgency of addressing accelerated warming's implications for our planet.</div>
+5. **Conclusion – Accelerated Warming**: Summarize findings and emphasize the urgency of addressing accelerated warming's implications for our planet.</div>  
 
 ## PREREQUISITES
 
