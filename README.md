@@ -48,7 +48,4 @@ Please refer to the project's documentation and files within the repository for 
 Thank you for your interest in our work. Together, we can make a difference in understanding and combating climate change.
 
 ***
-
-## TABLE OF CONTENTS
-
 </div>
